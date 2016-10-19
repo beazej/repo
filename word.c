@@ -2,8 +2,9 @@
 
 int main()
 {
-int liczba;
+int liczba, a;
 scanf("%d",&liczba);
-printf("d",liczba+5);
+printf("d",liczba+15);
+scanf("%d",&a);
 return 0;
 }
