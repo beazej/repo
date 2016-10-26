@@ -5,6 +5,6 @@ int main()
 {
 int a;
 cin>>a;
-cout<<a<<" "<<a;
+cout<<a<<" "<<a+5;
 return 0;
 }
