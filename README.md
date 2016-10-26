@@ -1,1 +1,1 @@
-opis repytetorim
+opis repytetorium
